@@ -10,6 +10,6 @@ My show of choice is The Glory.
 > __Disclaimer:__ I don't own the rights to the images, logomarks, symbols, logos, icons or the Netflix name.  
 The carousel featured is from noirsociety on CodePen: https://codepen.io/noirsociety
 
-### This looks best on a full-screen, full sized browser (*idk how to optimise yet, i'm new here*)
+### This looks best on a full-screen, full sized desktop browser (*idk how to optimise yet, i'm new here*)
 
 You can view the landing page here: https://codepen.io/mink-a/pen/GRemeXN
